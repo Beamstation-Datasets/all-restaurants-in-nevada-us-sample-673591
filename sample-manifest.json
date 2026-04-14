@@ -1,0 +1,12 @@
+{
+  "export_job_id": "952ab7fa-908f-42ae-99b7-096c430367af",
+  "id_short": 673591,
+  "published_at": "2026-04-14T19:12:30Z",
+  "repo_name": "all-restaurants-in-nevada-us-sample-673591",
+  "sample_asset_name": "beamstation_673591_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/673591/beamstation_673591_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_records": 878,
+  "sample_sha256": "3c14d97cf68359a8b4f2a6509e328bc8abd03a57ae750e7add46ade66299af54",
+  "sample_size_bytes": 2735713,
+  "total_records": 8781
+}
