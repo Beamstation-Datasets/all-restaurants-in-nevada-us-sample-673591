@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All restaurant listings across the state of Nevada. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
+  "config_name": "All Restaurants in Nevada, US",
+  "export_job_id": "952ab7fa-908f-42ae-99b7-096c430367af",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 673591,
+  "location_name": "Nevada",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-nevada-us-sample-673591",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/673591/beamstation_673591_restaurants-us-nv_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 878,
+  "sample_sha256": "3c14d97cf68359a8b4f2a6509e328bc8abd03a57ae750e7add46ade66299af54",
+  "sample_size_bytes": 2735713,
+  "total_records": 8781,
+  "updated_at": "2026-04-07T14:27:23.511632+00:00"
+}
