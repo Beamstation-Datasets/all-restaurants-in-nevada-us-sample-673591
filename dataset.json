@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Nevada. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Nevada, US",
-  "export_job_id": "80114bfa-9aa1-40b0-baca-374496d02a8d",
+  "export_job_id": "eb964f5e-eaad-4074-bc90-8b3dd28b993c",
   "github_org": "Beamstation-Datasets",
   "id_short": 673591,
   "location_name": "Nevada",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-nevada-us-sample-673591",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/673591/beamstation_673591_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 843,
-  "sample_sha256": "78e026cd18069c63b1881b7ff32e5e512724173eced3f277298d869130642c16",
-  "sample_size_bytes": 2943642,
-  "total_records": 8433,
-  "updated_at": "2026-04-14T21:30:44.167157+00:00"
+  "sample_records": 680,
+  "sample_sha256": "5de0bf4988c4ec44d4104897bbac34de27f4482ed2ec6f44d080a88bbc1f227c",
+  "sample_size_bytes": 2411529,
+  "total_records": 6802,
+  "updated_at": "2026-04-22T00:17:11.065448+00:00"
 }
